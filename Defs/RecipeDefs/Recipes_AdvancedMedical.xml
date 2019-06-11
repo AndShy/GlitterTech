@@ -14,10 +14,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTEar</defName>
-		<label>install advanced bionic ear</label>
-		<description>Installs advanced bionic ear.</description>
+		<label>install GT advanced bionic ear</label>
+		<description>Installs GT advanced bionic ear.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing advanced bionic ear.</jobString>
+		<jobString>Installing GT advanced bionic ear.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -53,10 +53,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTEye</defName>
-		<label>install advanced bionic eye</label>
-		<description>Installs advanced bionic eye.</description>
+		<label>install GT advanced bionic eye</label>
+		<description>Installs GT advanced bionic eye.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing advanced bionic eye.</jobString>
+		<jobString>Installing GT advanced bionic eye.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -92,10 +92,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTArm</defName>
-		<label>install advanced bionic arm</label>
-		<description>Installs advanced bionic arm.</description>
+		<label>install GT advanced bionic arm</label>
+		<description>Installs GT advanced bionic arm.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing advanced bionic arm.</jobString>
+		<jobString>Installing GT advanced bionic arm.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -131,10 +131,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTHand</defName>
-		<label>install advanced bionic hand</label>
-		<description>Installs advanced bionic hand.</description>
+		<label>install GT advanced bionic hand</label>
+		<description>Installs GT advanced bionic hand.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing advanced bionic hand.</jobString>
+		<jobString>Installing GT advanced bionic hand.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -170,10 +170,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTLeg</defName>
-		<label>install advanced bionic leg</label>
-		<description>Installs advanced bionic leg.</description>
+		<label>install GT advanced bionic leg</label>
+		<description>Installs GT advanced bionic leg.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing advanced bionic leg.</jobString>
+		<jobString>Installing GT advanced bionic leg.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -209,10 +209,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTFoot</defName>
-		<label>install advanced bionic foot</label>
-		<description>Installs advanced bionic foot.</description>
+		<label>install GT advanced bionic foot</label>
+		<description>Installs GT advanced bionic foot.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing advanced bionic foot.</jobString>
+		<jobString>Installing GT advanced bionic foot.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -248,10 +248,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTHeart</defName>
-		<label>install cybernetic heart</label>
-		<description>Installs cybernetic heart.</description>
+		<label>install GT cybernetic heart</label>
+		<description>Installs GT cybernetic heart.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing cybernetic heart.</jobString>
+		<jobString>Installing GT cybernetic heart.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -287,10 +287,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTLung</defName>
-		<label>install cybernetic lung</label>
-		<description>Installs cybernetic lung.</description>
+		<label>install GT cybernetic lung</label>
+		<description>Installs GT cybernetic lung.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing cybernetic lung.</jobString>
+		<jobString>Installing GT cybernetic lung.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -326,10 +326,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTKidney</defName>
-		<label>install cybernetic kidney</label>
-		<description>Installs cybernetic kidney.</description>
+		<label>install GT cybernetic kidney</label>
+		<description>Installs GT cybernetic kidney.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing cybernetic kidney.</jobString>
+		<jobString>Installing GT cybernetic kidney.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -365,10 +365,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTLiver</defName>
-		<label>install cybernetic liver</label>
-		<description>Installs cybernetic liver.</description>
+		<label>install GT cybernetic liver</label>
+		<description>Installs GT cybernetic liver.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing cybernetic liver.</jobString>
+		<jobString>Installing GT cybernetic liver.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -404,10 +404,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTStomach</defName>
-		<label>install cybernetic stomach</label>
-		<description>Installs cybernetic stomach.</description>
+		<label>install GT cybernetic stomach</label>
+		<description>Installs GT cybernetic stomach.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing cybernetic stomach.</jobString>
+		<jobString>Installing GT cybernetic stomach.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
@@ -443,10 +443,10 @@
 
 	<RecipeDef ParentName="GTSurgery">
 		<defName>InstallGTDentures</defName>
-		<label>install cybernetic dentures</label>
-		<description>Installs cybernetic dentures.</description>
+		<label>install GT cybernetic dentures</label>
+		<description>Installs GT cybernetic dentures.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing cybernetic dentures.</jobString>
+		<jobString>Installing GT cybernetic dentures.</jobString>
 		<workAmount>2500</workAmount>
 		<ingredients>
 			<li>
