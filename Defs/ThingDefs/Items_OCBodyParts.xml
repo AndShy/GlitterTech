@@ -11,7 +11,7 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>4500</MarketValue>
+			<MarketValue>9000</MarketValue>
 		</statBases>
 		<techHediffsTags>
 			<li>OCBodyParts</li>
